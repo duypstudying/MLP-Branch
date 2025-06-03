@@ -8,7 +8,6 @@ class PreNormException(Exception):
     pass
 
 
-sing网络)
 class BipartiteGraphConvolution(torch_geometric.nn.MessagePassing):
     def __init__(self):class PreNormLayer(torch.nn.Module):  # 归一化
     def __init__(self, n_units, shift=True, scale=True, name=None):
